@@ -1,0 +1,56 @@
+# training configs
+status: train
+name: FlowNetS_SF
+train_batch_size: 8
+test_batch_size: 1
+gpu_ids: 0
+test_epoch: 80
+epoch: 80
+scheduler_epoch: [30,50]
+gamma: 0.2
+resume_epoch: 0
+learning_rate: 0.0001
+
+
+# model, dataset and preprocess options
+model: FlowNetS_SF
+dataset_mode: cloud
+dataroot: datasets/data/CMWD
+img_size: 512
+crop_prob: 1.12
+
+
+# non-model specific & basic configs
+checkpoints_dir: checkpoints
+results_dir: testing
+save_epoch_freq: 1
+init_type: normal
+init_gain: 0.02
+lr_policy: step
+print_freq: 100
+num_threads: 4
+verbose: False
+use_visdom: True
+display_freq: 100
+display_winsize: 512
+display_ncols: 4
+display_id: 1
+display_server: http://localhost
+display_env: main
+display_port: 8097
+update_html_freq: 500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
