@@ -11,11 +11,11 @@ Click [here](https://这里放置论文主页的链接) for more details.
 ## Dataset & Pretrained Model
 CMWD (Cloud Motion Wind Dataset) is the first cloud motion wind dataset for deep learning research.
 It contains 6388 adjacent grayscale image pairs for training and another 715 images pairs for testing.
-Our CMWD dataset is available for download at [TianYiCloud(2.2GB)](https://这里放置CMWD数据集的天翼云盘链接) or [BaiduCloud(2.2GB)](https://这里放置CMWD据集的百度云盘链接).      
+Our CMWD dataset is available for download at [TianYiCloud(2.2GB)](https://cloud.189.cn/t/NRbARji2A3Qv) or [BaiduCloud(2.2GB)](https://pan.baidu.com/s/1B-W-OBHuKxqbfJktLqAnJQ) (extraction code: np6o).      
 You can get the CMWD dataset at any time but only for scientific research. 
 At the same time, please cite our work when you use the CMWD dataset.
 
-The pretrained model of our CMWNet on CMWD dataset can be download at [TianYiCloud](https://这里放置预训练模型的天翼云盘链接) or [BaiduCloud](https://这里放置预训练模型的百度云盘链接).
+The pretrained model of our CMWNet on CMWD dataset can be download at [TianYiCloud](https://cloud.189.cn/t/zyI3iyNZVV7n) or [BaiduCloud](https://pan.baidu.com/s/18kY_Li0myN5P1xgklbKufw) (extraction code: wqk0).
 
   
 ## Prerequisites
