@@ -1,10 +1,10 @@
 # Learning to Efficient Cloud Motion Wind using Deep Learning Approach
 
 
-This repository contains the source code, dataset and pretrained model for CMWNet, provided by [Chao Tan](https://这里放置作者个人主页).
+This repository contains the source code, dataset and pretrained model for CMWNet, provided by [Chao Tan](https://chao-tan.gitee.io).
 
-The paper is avaliable for download [here](https://). 
-Click [here](https://这里放置论文主页的链接) for more details.
+The paper is avaliable for download [here](https://arxiv.org/abs/2010.01283). 
+Click [here](https://chao-tan.gitee.io/projects/cmw-net/project-page.html) for more details.
 
 
 ***
