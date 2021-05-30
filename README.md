@@ -46,8 +46,13 @@ The pretrained model of our CMWNet on CMWD dataset can be download at [TianYiClo
 4. The results of the testing will be saved in the ```checkpoint/FlowNetS/testing"``` directory.
 
 ## Citation
-
-Update soon...
+@inproceedings{      
+&nbsp;&nbsp;&nbsp;&nbsp;  title={Generating the Cloud Motion Wind Field from Satellite Cloud Imagery Using Deep Learning Approach},         
+&nbsp;&nbsp;&nbsp;&nbsp;  author={Tan, Chao},         
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle={IGARSS},        
+&nbsp;&nbsp;&nbsp;&nbsp;  year={2021},        
+&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear},       
+}
 
 
 
