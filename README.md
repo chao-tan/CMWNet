@@ -1,4 +1,4 @@
-# Learning to Efficient Cloud Motion Wind using Deep Learning Approach
+# Generating the Cloud Motion Winds Field from Satellite Cloud Imagery Using Deep Learning Approach
 
 
 This repository contains the source code, dataset and pretrained model for CMWNet, provided by [Chao Tan](https://chao-tan.gitee.io).
